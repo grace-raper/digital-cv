@@ -13,8 +13,9 @@ As Chief Operating Officer, I am actively involved in decisions regarding compan
 As Lead Software Developer, I oversee a team of engineers in developing four major software releases (and counting) to run on Ghost Pacer's augmented reality glasses for runners. My responsibilities were full stack and included the implementation of avatar positioning logic, Bluetooth audio integration, live user metrics, rigorous testing, and more.
 
 **Software Development Intern** @ [Unify Square](https://www.unifysquare.com) _(June 2019 — September 2019)_
-
-Collaboratively developed code that used APIs to organize, interpret, and compare basic user information across multiple media platforms (Zoom, Teams, Slack, Facebook for Workplace). Findings were presented to C-level executives.
+* Worked with REST APIs to organize, interpret, and compare basic user information across multiple workplace communication platforms, including Zoom, Teams, Slack, and Facebook for Workplace.
+* Used popular data analysis tools, such as Python, R, and SQL databases, to clean and analyze data, uncovering key insights that informed strategic decision-making.
+* Developed Power BI dashboards and presented findings to C-level executives, providing valuable visualizations of complex data sets.
 
 ## 👩‍🔧 Personal Projects
 
