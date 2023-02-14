@@ -2,7 +2,7 @@
 
 _Software engineer based in Seattle, WA_ <br>
 
-[Email](mailto:graceraper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [GitHub](https://github.com/grace-raper/)
+[Email](mailto:graceraper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [GitHub](https://github.com/grace-raper/) / [Medium](https://medium.com/@xpxwparxv)
 
 ## 👩‍🎓 Education
 
@@ -59,4 +59,4 @@ RedViz is a data vizualization project that allows viewers to better understand 
 In my free time you can find me:
 - 🚣‍♀️ Rowing across Lake Union
 - ✈️ Flying over Seattle practicing for my pilots license
-- 📸 Snapping photos towards my goal of 100k by the end of 2022
+- 📸 Snapping photos towards my goal of 100k by the end of 2023
