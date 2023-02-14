@@ -4,6 +4,12 @@ _Software engineer based in Seattle, WA_ <br>
 
 [Email](mailto:graceraper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [GitHub](https://github.com/grace-raper/)
 
+## 👩‍🎓 Education
+
+**B.S. in Computer Science** @ [The University of Washington](https://www.cs.washington.edu) _(September 2019 - March 2022)_
+
+Graduated in March 2022 with a B.S. in Computer Science: Data Science and a minor in Applied Mathematics.
+
 ## 👩‍💻 Engineering Experience
 
 **COO / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - Present)_ <br>
@@ -27,13 +33,6 @@ CaspirCam is a ios photography app that I built to help people take better photo
 **RedViz** - [https://grace-raper.github.io/redviz/](https://grace-raper.github.io/redviz/)
 
 RedViz is a data vizualization project that allows viewers to better understand the lasting impacts of redlining by exploring and interact with modern day data in the context of historical HOLC maps.
-
-## 👩‍🎓 Education
-
-**B.S. in Computer Science** @ [The University of Washington](https://www.cs.washington.edu) _(September 2019 - March 2022)_
-
-Graduated in March 2022 with a B.S. in Computer Science: Data Science and a minor in Applied Mathematics.
-
 
 ##  💁‍♀️ Additional Experiences
 **Vice President I - Coordinator of Committees** @ [Zeta Tau Alpha](https://zetataualpha.org) _(October 2020 - December 2021)_ <br>
