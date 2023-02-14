@@ -37,11 +37,13 @@ Graduated in March 2022 with a B.S. in Computer Science: Data Science and a mino
 
 ##  💁‍♀️ Additional Experiences
 **Vice President I - Coordinator of Committees** @ [Zeta Tau Alpha](https://zetataualpha.org) _(October 2020 - December 2021)_ <br>
-
-Responsible for planning and coordinating a strong, well-balanced calendar that matches the needs and desires of the chapter. Act as the liaison between Executive Council and Programs Council. Oversee the duties and leadership development of all 30 members on Programs Council.
+* Managed a ~$50k budget for the Programs Council, distributing funds between events, negotiating vendor contracts, creating risk reduction plans, and ensuring expenses were within budget.
+* Oversaw development of 30 Programs Council members, providing training, support, and mentorship to foster leadership skills and personal growth.
+* Served as the liaison between the Executive Council and Programs Council, delivering regular updates and ensuring a diverse and engaging calendar of events that aligned with the chapter and organization goals, while targeting the needs and desires of our 100+ members. As a result, we achieved a 95% member retention rate.
 
 **Math and Computer Science Tutor** @ [GoPeer](https://gopeer.org) _(March 2020 - March 2021)_ <br>
-Provide math and computer science support to high school students. Achieved high client satisfaction ratings (98% approval) due to increases in academic performance.
+* Delivered one-on-one math and computer science tutoring to over 20 high school students, resulting in an average increase of 2 letter grades in their coursework.
+* Developed personalized project-based curriculums for each student, tailored to their individual learning needs, resulting in a 98% client satisfaction rating.
 
 ## 👩‍🎨 Hobbies & Interest
 In my free time you can find me:
