@@ -12,17 +12,17 @@ Graduated in March 2022 with a B.S. in Computer Science: Data Science and a mino
 
 ## 👩‍💻 Engineering Experience
 
-**Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - Present)_ <br>
+**Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - February 2023)_ <br>
 
 Ghost Pacer is a Techstars-backed company that ran one of the most sucessful crownfunding campaigned in history (top 1%) for custom augmented reality glasses uniquely suited for outdoor and active applications. 
 
 As COO, I set company goals and direction, engaged with investors and external partners, and oversaw the hiring and onboarding process for new employees. As Lead Software Engineer, I managed a team of developers using Agile principles to design, develop, and test multiple software releases for Ghost Pacer's custom AR headset. Some highlights of my engineering contributions include:
 
-* **Lightweight augmented reality application:** Implemented and optimized the app for our embedded platform with comprehensive unit testing and regular profiling analysis. Utilized 3D math and linear algebra to position and orient the user/avatar effectively in each frame.
-* **Advanced algorithm development:** Designed algorithms that accurately update the user's position every frame by combining data from embedded GPS, IMU, accelerometer, NASA elevation surveys, and previous run history. Developed IMU and accelerometer-based algorithms to allow for a large subset of functionality indoors without GPS data. Analyzed data using NumPy and Pandas to inform algorithm development and assess performance.
-* **Bluetooth integration:** Integrated Bluetooth classic and BLE peripheral devices and developed custom data protocols to communicate between the headset and iOS/watchOS applications, leveraging insights from CoreLocation and HealthKit (e.g., user heart rate, sleep statistics, walking cadence, etc.). Implemented audio functionality to connect Bluetooth headsets to receive audio workouts and verbal coaching.
-* **UI Design:** Used DCC tools (e.g., Blender, Photoshop, Illustrator) to create graphical components that were functional and visually appealing. Streamlined the UI design to enable our custom 3D graphics engine to run at a consistent 60 fps, allowing for a smooth user experience.
-* **Repository Management:** Employed Git and GitHub to promote collaborative, high-quality, and well-documented code through the implementation of shared style guides, rigorous pull request reviews, and effective branch management and code merging techniques.
+* **_Lightweight Augmented Reality Application:_** Implemented and optimized the app for our embedded platform with comprehensive unit testing and regular profiling analysis. Utilized 3D math and linear algebra to position and orient the user/avatar effectively in each frame.
+* **_Advanced Algorithm Development:_** Designed algorithms that accurately update the user's position every frame by combining data from embedded GPS, IMU, accelerometer, NASA elevation surveys, and previous run history. Developed IMU and accelerometer-based algorithms to allow for a large subset of functionality indoors without GPS data. Analyzed data using NumPy and Pandas to inform algorithm development and assess performance.
+* **_Bluetooth Integration:_** Integrated Bluetooth classic and BLE peripheral devices and developed custom data protocols to communicate between the headset and iOS/watchOS applications, leveraging insights from CoreLocation and HealthKit (e.g., user heart rate, sleep statistics, walking cadence, etc.). Implemented audio functionality to connect Bluetooth headsets to receive audio workouts and verbal coaching.
+* **_UI Design:_** Used DCC tools (e.g., Blender, Photoshop, Illustrator) to create graphical components that were functional and visually appealing. Streamlined the UI design to enable our custom 3D graphics engine to run at a consistent 60 fps, allowing for a smooth user experience.
+* **_Repository Management:_** Employed Git and GitHub to promote collaborative, high-quality, and well-documented code through the implementation of shared style guides, rigorous pull request reviews, and effective branch management and code merging techniques.
 
 **Software Development Intern** @ [Unify Square](https://www.unifysquare.com) _(June 2019 — September 2019)_
 * Worked with REST APIs to organize, interpret, and compare basic user information across multiple workplace communication platforms, including Zoom, Teams, Slack, and Facebook for Workplace.
