@@ -2,7 +2,7 @@
 
 _Software engineer based in Seattle, WA_ <br>
 
-[Email](mailto:graceraper@gmail.com) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [GitHub](https://github.com/grace-raper/) / [Medium](https://medium.com/@xpxwparxv)
+[Email](mailto:graceraper@gmail.com) / [GitHub](https://github.com/grace-raper/) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [Medium](https://medium.com/@xpxwparxv)
 
 ## 👩‍🎓 Education
 
