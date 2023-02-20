@@ -12,22 +12,17 @@ Graduated in March 2022 with a B.S. in Computer Science: Data Science and a mino
 
 ## 👩‍💻 Engineering Experience
 
-**COO / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - Present)_ <br>
+**Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - Present)_ <br>
 
 Ghost Pacer is a Techstars-backed company that ran one of the most sucessful crownfunding campaigned in history (top 1%) for custom augmented reality glasses uniquely suited for outdoor and active applications. 
 
-As Chief Operating Officer, played an active role in setting company goals and direction, which included engaging with investors, facilitating meetings with external partners, and managing the hiring and onboarding process for new employees. As Lead Software Engineer, I used Agile principles to managed a team of developers in the design, development, and testing of multiple software releases for Ghost Pacer's custom AR headset, continually incorporating user feedback to deliver high-quality features with easy usability.
+As COO, I set company goals and direction, engaged with investors and external partners, and oversaw the hiring and onboarding process for new employees. As Lead Software Engineer, I managed a team of developers using Agile principles to design, develop, and test multiple software releases for Ghost Pacer's custom AR headset. Some highlights of my engineering contributions include:
 
-A few contributions I would like to highlight include: 
-
-* developed and optimize a Golang application that handled a variety of tasks and was designed to run on our embedded system. To accomplish this, I leveraged several different tools and techniques, including profiling, testing, and debugging tools, as well as a variety of third-party libraries and frameworks. 3D math/linear algebra fundamentals.
-* I designed and implemented a GPS positioning algorithm that accurately determined the user's position using data from a variety of different sources. This involved working closely with the hardware team to ensure that our GPS module was functioning correctly, as well as integrating the algorithm with our existing software architecture.
-* I integrated a consistent BLE communication protocol between our iOS and watchOS applications to leverage insights from CoreLocation and HealthKit (e.g. user heart rate, sleep statistics, walking cadence, etc). This involved developing custom data protocols to ensure information was being transmitted quickly and correctly. 
-* I conducted data analysis of IMU data to determine user behavior and inform our development decisions. This involved using a variety of different tools, including Python libraries like NumPy and Pandas, as well as custom scripts that I developed specifically for this purpose.
-* streamlined the UI design to allow for our custom 3d graphics engine to run at a consistent 60 fps on our embedded platform allowing for a smooth and seemless user experience. This involved using DCC tools (e.g. Blender, Photoshop, Illustrator) to create graphical components that were functional and visually appealing.
-* I oversaw the integration of Bluetooth audio functionality into our app, which allowed users to stream music and other audio content directly to their Ghost Pacer glasses.
-* Finally, I implemented a live user metrics system that allowed users to track their performance and progress in real-time. This involved developing custom data visualization tools and integrating them with our existing software architecture to provide users with accurate, up-to-date information about their workouts and training sessions.
-* Employed Git and GitHub to promote collaborate, high-quality, and well-documented code through the implementation of shared style guides, rigorous pull request reviews, and effective branch management and code merging techniques.
+* **Lightweight augmented reality application:** Implemented and optimized the app for our embedded platform with comprehensive unit testing and regular profiling analysis. Utilized 3D math and linear algebra to position and orient the user/avatar effectively in each frame.
+* **Advanced algorithm development:** Designed algorithms that accurately update the user's position every frame by combining data from embedded GPS, IMU, accelerometer, NASA elevation surveys, and previous run history. Developed IMU and accelerometer-based algorithms to allow for a large subset of functionality indoors without GPS data. Analyzed data using NumPy and Pandas to inform algorithm development and assess performance.
+* **Bluetooth integration:** Integrated Bluetooth classic and BLE peripheral devices and developed custom data protocols to communicate between the headset and iOS/watchOS applications, leveraging insights from CoreLocation and HealthKit (e.g., user heart rate, sleep statistics, walking cadence, etc.). Implemented audio functionality to connect Bluetooth headsets to receive audio workouts and verbal coaching.
+* **UI Design:** Used DCC tools (e.g., Blender, Photoshop, Illustrator) to create graphical components that were functional and visually appealing. Streamlined the UI design to enable our custom 3D graphics engine to run at a consistent 60 fps, allowing for a smooth user experience.
+* **Repository Management:** Employed Git and GitHub to promote collaborative, high-quality, and well-documented code through the implementation of shared style guides, rigorous pull request reviews, and effective branch management and code merging techniques.
 
 **Software Development Intern** @ [Unify Square](https://www.unifysquare.com) _(June 2019 — September 2019)_
 * Worked with REST APIs to organize, interpret, and compare basic user information across multiple workplace communication platforms, including Zoom, Teams, Slack, and Facebook for Workplace.
@@ -36,14 +31,14 @@ A few contributions I would like to highlight include:
 
 ## 👩‍🔧 Personal Projects
 
-**Caspir Camera** - [check it out on the App Store](https://www.apple.com/app-store/)!
+**Caspir Camera** - [check it out on TestFlight](https://www.apple.com/app-store/)!
 
 CaspirCam is a ios photography app that I built to help people take better photos. Caspir Cam enables users to copy the location, posing, and composition of images from templates by pro photographers and CaspirCam influencers. Built with Swift.
 
 
 **RedViz** - [https://grace-raper.github.io/redviz/](https://grace-raper.github.io/redviz/)
 
-RedViz is a data vizualization project that allows viewers to better understand the lasting impacts of redlining by exploring and interact with modern day data in the context of historical HOLC maps.
+RedViz is a data visualization framework I created that allows for the comparision of modern day census data in the context of historical HOLC maps in order to explore and communicate the lasting impacts of redlining _(note: built for desktop)_.
 
 ##  💁‍♀️ Additional Experiences
 **Vice President I - Coordinator of Committees** @ [Zeta Tau Alpha](https://zetataualpha.org) _(October 2020 - December 2021)_ <br>
