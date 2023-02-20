@@ -4,12 +4,6 @@ _Software engineer based in Seattle, WA_ <br>
 
 [Email](mailto:graceraper@gmail.com) / [GitHub](https://github.com/grace-raper/) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [Medium](https://medium.com/@xpxwparxv)
 
-## 👩‍🎓 Education
-
-**B.S. in Computer Science** @ [The University of Washington](https://www.cs.washington.edu) _(September 2019 - March 2022)_
-
-Graduated in March 2022 with a B.S. in Computer Science: Data Science and a minor in Applied Mathematics.
-
 ## 👩‍💻 Engineering Experience
 
 **Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - February 2023)_ <br>
@@ -28,6 +22,13 @@ As COO, I set company goals and direction, engaged with investors and external p
 * Worked with REST APIs to organize, interpret, and compare basic user information across multiple workplace communication platforms, including Zoom, Teams, Slack, and Facebook for Workplace.
 * Used popular data analysis tools, such as Python, R, and SQL databases, to clean and analyze data, uncovering key insights that informed strategic decision-making.
 * Developed Power BI dashboards and presented findings to C-level executives, providing valuable visualizations of complex data sets.
+
+## 👩‍🎓 Education
+
+**B.S. in Computer Science** @ [The University of Washington](https://www.cs.washington.edu) _(September 2019 - March 2022)_
+
+Graduated in March 2022 with a B.S. in Computer Science: Data Science and a minor in Applied Mathematics.
+
 
 ## 👩‍🔧 Personal Projects
 
