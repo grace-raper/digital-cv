@@ -31,7 +31,7 @@ As COO, I set company goals and direction, engaged with investors and external p
 
 ## 👩‍🔧 Personal Projects
 
-**Caspir Camera** - [check it out on TestFlight](https://www.apple.com/app-store/)!
+**Caspir Camera** - [check it out on TestFlight](https://testflight.apple.com/join/VfMXjjCu)!
 
 CaspirCam is a ios photography app that I built to help people take better photos. Caspir Cam enables users to copy the location, posing, and composition of images from templates by pro photographers and CaspirCam influencers. Built with Swift.
 
