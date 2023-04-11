@@ -55,4 +55,4 @@ RedViz is a data visualization framework I created that allows for the comparisi
 In my free time you can find me:
 - 🚣‍♀️ Rowing across Lake Union
 - ✈️ Flying over Seattle practicing for my pilots license
-- 📸 Snapping photos towards my goal of 100k by the end of 2023
+- 📸 Snapping photos towards my goal of taking 100k pictures in 2023
