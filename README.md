@@ -6,6 +6,12 @@ _Software engineer based in Seattle, WA_ <br>
 
 ## 👩‍💻 Engineering Experience
 
+**Founder / Lead Engineer** @ [SortMyShoebox](https://sortmyshoebox.com) _(January 2024 - Current)_ <br>
+
+* Strong Grasp on AWS suite
+* Experience integrating identity, access management, or security products; In-depth knowledge of identity and security frameworks (CIAM, IAM) and identity protocols (SAML, OAuth, OpenID Connect).
+
+
 **Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - February 2023)_ <br>
 
 Ghost Pacer is a Techstars-backed company that ran one of the most sucessful crownfunding campaigned in history (top 1%) for custom augmented reality glasses uniquely suited for outdoor and active applications. 
