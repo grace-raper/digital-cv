@@ -1,64 +1,57 @@
 # Grace Raper
 
-_Software engineer based in Seattle, WA_ <br>
-
-[Email](mailto:graceraper@gmail.com) / [GitHub](https://github.com/grace-raper/) / [LinkedIn](https://www.linkedin.com/in/graceraper/) / [Medium](https://medium.com/@xpxwparxv)
+_AI Engineer / Full-Stack Software Engineer based in Seattle, WA_ <br>
+[Website](https://graceraper.com) / [Email](mailto:graceraper@gmail.com) / [GitHub](https://github.com/grace-raper/) / [LinkedIn](https://www.linkedin.com/in/graceraper/)
 
 ## 👩‍💻 Engineering Experience
+**Founder / Lead Engineer** @ [Remme](https://tryremme.com) _(2025 - Current)_ <br>
+Generative AI-powered reminiscence therapy platform providing emotionally intelligent, photo-guided conversations for individuals with memory challenges.
+* **_Reminiscence Therapy Agent:_** Designed and prototyped an agentic system that analyzes user photo databases to select meaningful and positive images based on past experience. Built automated session planning that generates 20-minute therapy outlines with curated photos and contextual questions, delivered through integrated video AI agents (Tavus).
+* **_Product Development & User Research:_** Conducted extensive customer discovery through events at senior centers and memory care facilities. Collaborated with professors and medical professionals at UW, USC, and UMass to validate therapeutic approach and explore research partnerships and grant funding opportunities.
 
-**Founder / Lead Engineer** @ [SortMyShoebox](https://sortmyshoebox.com) _(January 2024 - Current)_ <br>
+**Founder / Lead Engineer** @ [SortMyShoebox](https://sortmyshoebox.com) _(2024 - Current)_ <br>
+SortMyShoebox is an application that organizes and predicts metadata for digitized family photos.
+* **_Computer Vision Pipeline:_** Built comprehensive image analysis system using CV libraries for face detection, age estimation, image segmentation, and labeling (TensorFlow, PyTorch, OpenCV). Integrated with MLLM models to embed image attributes for semantic searches (Hugging Faces, OpenAI embeddings).
+* **_Agentic Photo Organization & Caption Generation:_** Created agentic workflows for detecting related images from events by analyzing visual similarity, faces, clothing matches, and temporal patterns. Integrated LLMs with visual analysis to generate contextual captions. Developed prompt engineering techniques combining visual elements with family history for personalized narratives.
+* **_AWS Cloud Architecture:_** Designed production infrastructure using EC2, S3, Lambda, and MongoDB. Implemented identity and security frameworks (IAM), authentication protocols (SAML, OAuth, OpenID Connect), and encrypted sensitive user data (e.g., images).
+* **_MLOps & Deployment:_** Built CI/CD pipelines for ML model deployment using Docker, Hugging Face, Replicate, and GitHub Actions.
 
-* Strong Grasp on AWS suite
-* Experience integrating identity, access management, or security products; In-depth knowledge of identity and security frameworks (CIAM, IAM) and identity protocols (SAML, OAuth, OpenID Connect).
-
-
-**Chief Operating Officer / Lead Software Engineer** @ [Ghost Pacer](https://www.ghostpacer.com) _(March 2021 - February 2023)_ <br>
-
-Ghost Pacer is a Techstars-backed company that ran one of the most sucessful crownfunding campaigned in history (top 1%) for custom augmented reality glasses uniquely suited for outdoor and active applications. 
-
-As COO, I set company goals and direction, engaged with investors and external partners, and oversaw the hiring and onboarding process for new employees. As Lead Software Engineer, I managed a team of developers using Agile principles to design, develop, and test multiple software releases for Ghost Pacer's custom AR headset. Some highlights of my engineering contributions include:
-
-* **_Lightweight Augmented Reality Application:_** Implemented and optimized the app for our embedded platform with comprehensive unit testing and regular profiling analysis. Utilized 3D math and linear algebra to position and orient the user/avatar effectively in each frame.
-* **_Advanced Algorithm Development:_** Designed algorithms that accurately update the user's position every frame by combining data from embedded GPS, IMU, accelerometer, NASA elevation surveys, and previous run history. Developed IMU and accelerometer-based algorithms to allow for a large subset of functionality indoors without GPS data. Analyzed data using NumPy and Pandas to inform algorithm development and assess performance.
-* **_Bluetooth Integration:_** Integrated Bluetooth classic and BLE peripheral devices and developed custom data protocols to communicate between the headset and iOS/watchOS applications, leveraging insights from CoreLocation and HealthKit (e.g., user heart rate, sleep statistics, walking cadence, etc.). Implemented audio functionality to connect Bluetooth headsets to receive audio workouts and verbal coaching.
-* **_UI Design:_** Used DCC tools (e.g., Blender, Photoshop, Illustrator) to create graphical components that were functional and visually appealing. Streamlined the UI design to enable our custom 3D graphics engine to run at a consistent 60 fps, allowing for a smooth user experience.
-* **_Repository Management:_** Employed Git and GitHub to promote collaborative, high-quality, and well-documented code through the implementation of shared style guides, rigorous pull request reviews, and effective branch management and code merging techniques.
+**Lead Software Engineer / COO** @ [Ghost Pacer](https://www.ghostpacer.com) _(2021 - 2023)_ <br>
+Ghost Pacer is AR-Fitness startup that produced custom augmented reality glasses for outdoor applications. While I was there, we grew to seven figures in annual revenue & received funding from Techstars before being bought by Peloton in 2024.
+* **_Advanced Algorithm Development:_** Designed algorithms that accurately update the user's position every frame by combining data from embedded GPS, IMU, accelerometer, NASA elevation surveys, and previous run history. Developed ML algorithms for indoor functionality without GPS.
+* **_Lightweight Augmented Reality Application:_** Implemented and optimized the app for our embedded platform with comprehensive unit testing and regular profiling analysis.
+* **_Bluetooth Integration:_** Integrated Bluetooth classic and BLE peripheral devices and developed custom data protocols to communicate between the headset and iOS/watchOS applications, leveraging insights from CoreLocation and HealthKit (e.g., user heart rate, sleep statistics, walking cadence). Implemented audio functionality to connect Bluetooth headsets to receive audio workouts and verbal coaching.
 
 **Software Development Intern** @ [Unify Square](https://www.unifysquare.com) _(June 2019 — September 2019)_
-* Worked with REST APIs to organize, interpret, and compare basic user information across multiple workplace communication platforms, including Zoom, Teams, Slack, and Facebook for Workplace.
-* Used popular data analysis tools, such as Python, R, and SQL databases, to clean and analyze data, uncovering key insights that informed strategic decision-making.
-* Developed Power BI dashboards and presented findings to C-level executives, providing valuable visualizations of complex data sets.
+* Collaborated with CTO on real-time analytics dashboard prototype with REST API integrations across enterprise platforms (Zoom, Teams, Slack)
+* Developed data analysis solutions using Python, R, and SQL informing strategic decisions.
+* Prototype expanded into company product offering, contributing to $152M acquisition in 2021.
 
 ## 👩‍🎓 Education
 
 **B.S. in Computer Science** @ [The University of Washington](https://www.cs.washington.edu) _(September 2019 - March 2022)_
 
-Graduated in March 2022 with a B.S. in Computer Science: Data Science and a minor in Applied Mathematics.
+Concentration in Data Science w/ minor in Applied Mathematics.
 
 
-## 👩‍🔧 Personal Projects
-
+## 👩‍🔧 Projects
 **Caspir Camera** - [check it out on TestFlight](https://testflight.apple.com/join/VfMXjjCu)!
 
-CaspirCam is a ios photography app that I built to help people take better photos. Caspir Cam enables users to copy the location, posing, and composition of images from templates by pro photographers and CaspirCam influencers. Built with Swift.
-
+iOS photography app using Swift and Core ML for pose estimation and composition guidance to help users replicate professional photography techniques.
 
 **RedViz** - [https://grace-raper.github.io/redviz/](https://grace-raper.github.io/redviz/)
 
-RedViz is a data visualization framework I created that allows for the comparision of modern day census data in the context of historical HOLC maps in order to explore and communicate the lasting impacts of redlining _(note: built for desktop)_.
+Interactive data visualization framework built with D3.js exploring correlations between historical redlining and modern census data for social justice research.
 
-##  💁‍♀️ Additional Experiences
-**Vice President I - Coordinator of Committees** @ [Zeta Tau Alpha](https://zetataualpha.org) _(October 2020 - December 2021)_ <br>
-* Managed a ~$50k budget for the Programs Council, distributing funds between events, negotiating vendor contracts, creating risk reduction plans, and ensuring expenses were within budget.
-* Oversaw development of 30 Programs Council members, providing training, support, and mentorship to foster leadership skills and personal growth.
-* Served as the liaison between the Executive Council and Programs Council, delivering regular updates and ensuring a diverse and engaging calendar of events that aligned with the chapter and organization goals, while targeting the needs and desires of our 100+ members. As a result, we achieved a 95% member retention rate.
+**Portfolio Website** - [https://graceraper.com](https://graceraper.com)
 
-**Math and Computer Science Tutor** @ [GoPeer](https://gopeer.org) _(March 2020 - March 2021)_ <br>
-* Delivered one-on-one math and computer science tutoring to over 20 high school students, resulting in an average increase of 2 letter grades in their coursework.
-* Developed personalized project-based curriculums for each student, tailored to their individual learning needs, resulting in a 98% client satisfaction rating.
+Interactive showcase featuring data visualizations and technical projects with responsive design and performance optimization
 
-## 👩‍🎨 Hobbies & Interest
-In my free time you can find me:
-- 🚣‍♀️ Rowing across Lake Union
-- ✈️ Flying over Seattle practicing for my pilots license
-- 📸 Snapping photos towards my goal of taking 100k pictures in 2023
+
+## Technical Skills
+**Languages:** Python, Go, Java, JavaScript, TypeScript, SQL, R, Swift  
+**AI / ML & LLMs:** PyTorch, TensorFlow, scikit-learn, OpenCV, LangChain, LlamaIndex, Hugging Face, OpenAI APIs, embeddings, semantic search, RAG, prompt engineering  
+**AI Developer Tools:** Claude Code, Windsurf, Lovable  
+**Cloud & MLOps:** AWS (SageMaker, EC2, S3, RDS, Lambda, DynamoDB), GCP, Azure, Docker, CI/CD, GitHub Actions  
+**Backend & Frontend:** Django, Flask, React, REST APIs  
+**Databases:** PostgreSQL, MongoDB, Neo4j, graph databases
