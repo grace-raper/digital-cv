@@ -35,17 +35,23 @@ Concentration in Data Science w/ minor in Applied Mathematics.
 
 
 ## 👩‍🔧 Projects
+
+**Portfolio Website** - [https://graceraper.com](https://graceraper.com)
+
+Interactive showcase featuring data visualizations and technical projects with responsive design and performance optimization
+
 **Caspir Camera** - [check it out on TestFlight](https://testflight.apple.com/join/VfMXjjCu)!
 
 iOS photography app using Swift and Core ML for pose estimation and composition guidance to help users replicate professional photography techniques.
+
+**Read Receipts** - [https://readreceipts.xyz](https://readreceipts.xyz)
+
+Website that turns your reading history into shareable receipt-style graphics for social media.
 
 **RedViz** - [https://grace-raper.github.io/redviz/](https://grace-raper.github.io/redviz/)
 
 Interactive data visualization framework built with D3.js exploring correlations between historical redlining and modern census data for social justice research.
 
-**Portfolio Website** - [https://graceraper.com](https://graceraper.com)
-
-Interactive showcase featuring data visualizations and technical projects with responsive design and performance optimization
 
 
 ## Technical Skills
